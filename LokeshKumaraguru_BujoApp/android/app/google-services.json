@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "87754202610",
+    "project_id": "bujo-app-4aeea",
+    "storage_bucket": "bujo-app-4aeea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87754202610:android:d116693209788cbaf59f6b",
+        "android_client_info": {
+          "package_name": "com.example.bujo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87754202610-bcd9bcigs4dnf57f8gii5aniq27ivcne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABNhd5n8I_Ke7MTaNWC3LJmqTHMz1n5p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87754202610-bcd9bcigs4dnf57f8gii5aniq27ivcne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
